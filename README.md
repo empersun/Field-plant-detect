@@ -1,0 +1,3 @@
+# Field-plant-detect
+A simple which write by Matlab, thanks for Dr. Jiang(Dog.jpg)...
+two traditional methods which made by Matlab,"RGB（1）"is for detecting in field images, and "plant_row_identify" is for slant images
